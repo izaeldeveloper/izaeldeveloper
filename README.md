@@ -19,11 +19,11 @@ Universitário em Análise e Desenvolvimento de Sistemas na UNISUAM, gosto de at
 [EM PRODUÇÃO, EM BREVE ESTARÃO DESCRITOS, OLHE MEUS REPOSITÓRIOS :) ]
 
 ## CONTATO
-:email: E-mail: izael.developer@proton.me
-:office: LinkedIn: https://www.linkedin.com/in/izael-ara%C3%BAjo-6142022a8/
-:ledger: Porfólio: https://portfolio-izadev.vercel.app/
+- :email: E-mail: izael.developer@proton.me
+- :office: LinkedIn: https://www.linkedin.com/in/izael-ara%C3%BAjo-6142022a8/
+- :ledger: Porfólio: https://portfolio-izadev.vercel.app/
 
--=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+## ============================================================
 
 
 :star: Se gostou, aproveite e dê uma olhada mais aprofundada em meus repositórios, adorarei conversar com você!
